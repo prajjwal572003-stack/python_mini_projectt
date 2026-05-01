@@ -49,7 +49,7 @@ python value_prediction.py
 
 Input:
 Years = [1, 2, 3, 4, 5, 6]
-Earnings = [1000, 800, 2000, 1500, 3400, 4000]
+Earnings = [6000, 600, 5000, 500, 2400, 3000]
 
 Output:
 Predicted future value using Linear Regression
